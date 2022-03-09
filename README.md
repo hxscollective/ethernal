@@ -1,4 +1,4 @@
-# H × S Collective – Ethernal
+# H × S Collective — Ethernal
 
 POC of a solidity contract to create NFTs dependent on truly random data provided by Chainlink VRF to generate their unique artwork. 
 
